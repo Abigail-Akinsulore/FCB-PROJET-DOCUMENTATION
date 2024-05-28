@@ -12,10 +12,6 @@ The **automotive industry** comprises a wide range of companies and organization
 You can read more on this topic [here](https://en.wikipedia.org/wiki/Automotive_industry)
 
 
-
-![image](https://github.com/Abigail-Akinsulore/FCB-PROJET-DOCUMENTATION/assets/171024227/fdf8750c-5dcc-437e-a794-3bd23b082c34)
-
-
 ```
 Google Query Sheet
 
@@ -24,3 +20,10 @@ WHERE CONDITION = NET
 
 ```
 
+![image](https://github.com/Abigail-Akinsulore/FCB-PROJET-DOCUMENTATION/assets/171024227/b792a788-120e-49e9-ae7c-66bf88dc5d57)
+
+
+|BRAND NAME| TOTAL PRODUCED| PRICE|
+|----------| --------------|------|
+|Toyota   | 450,000,000   | $45,000|
+|Mercedence | 900,000,000  | $90,000|
